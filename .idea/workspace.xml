@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb9766e-fd50-4f83-baea-9f404ffa9f90" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_masthead.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="552" column="21" lean-forward="true" selection-start-line="552" selection-start-column="21" selection-end-line="552" selection-end-column="21" />
+            <state relative-caret-position="544">
+              <caret line="583" column="40" lean-forward="true" selection-start-line="583" selection-start-column="40" selection-end-line="583" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -34,6 +25,22 @@
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714" />
           </provider>
         </entry>
       </file>
@@ -64,8 +71,9 @@
       <find>#9bd7e0</find>
       <find>../img/header</find>
       <find>img/ab</find>
-      <find>Address</find>
       <find>intro</find>
+      <find>Address</find>
+      <find>minimist</find>
     </findStrings>
     <replaceStrings>
       <replace>#27818f</replace>
@@ -84,6 +92,7 @@
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/css/agency.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -172,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585841147410</updated>
-      <workItem from="1585841148910" duration="9167000" />
+      <workItem from="1585841148910" duration="9817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9167000" />
+    <option name="totallyTimeSpent" value="9817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -191,7 +200,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Gulp" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50104386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.50104165" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -278,14 +287,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="552" column="21" lean-forward="true" selection-start-line="552" selection-start-column="21" selection-end-line="552" selection-end-column="21" />
+        <state relative-caret-position="544">
+          <caret line="583" column="40" lean-forward="true" selection-start-line="583" selection-start-column="40" selection-end-line="583" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
